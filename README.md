@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ingrid Perez!
 
-<!--
-**ingridperezsalas/ingridperezsalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Computer Engineering
 
-Here are some ideas to get you started:
+I'm interested in full-stack development, backend engineering,
+cloud technologies, and building practical software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+![Skills](https://skillicons.dev/icons?i=python,ts,vue,postgres,docker,git,github)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingridperezsalas&show_icons=true&theme=tokyonight)
+
+## Featured Project
+
+[Don Galleto](https://github.com/ingridperezsalas/don-galleto)
