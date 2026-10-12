@@ -25,9 +25,6 @@ cloud technologies, and building practical software solutions.
 
 ### Featured Certifications
 
-
-### Featured Certifications
-
 <p align="left">
   <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/47e2250823084f2ce071844278d4d616af7b3f5b">
     <img src="https://img.shields.io/badge/DataCamp-DSA%20in%20Python-C9A7EB?style=flat-square&logo=datacamp&logoColor=white" alt="DataCamp" />
